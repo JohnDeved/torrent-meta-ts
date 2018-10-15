@@ -7,5 +7,14 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "zooqle-api-ts": "^1.0.37"
+  },
+  "devDependencies": {
+    "@types/node": "^10.11.7",
+    "tslint": "^5.11.0",
+    "tslint-config-standard": "^8.0.1",
+    "typescript": "^3.1.3"
+  }
 }
